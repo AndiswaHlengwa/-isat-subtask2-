@@ -1,0 +1,6 @@
+git init
+git add your_file.cpp
+git commit -m "Initial commit: Number system converter"
+git remote add origin https://github.com/yourusername/NumberSystemConverter.git
+git push -u origin master
+
